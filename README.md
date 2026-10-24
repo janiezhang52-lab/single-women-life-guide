@@ -1,5 +1,7 @@
 # 单身女性生活指南
 
+[English preview / 英文预览版](ENGLISH-PREVIEW.md)
+
 **[下载完整 PDF](https://github.com/janiezhang52-lab/single-women-life-guide/releases/download/v1.0.0/single-women-life-guide-v1.0.0.pdf) · [下载可编辑 Word](https://github.com/janiezhang52-lab/single-women-life-guide/releases/download/v1.0.0/single-women-life-guide-v1.0.0.docx) · [在线分章阅读](docs/CONTENTS.md)**
 
 房租怎么核对，生病时怎么安排，忙的时候怎么吃好，关系和未来照护怎样提前商量。这本指南把日常会遇到的事，写成可以一步步照着做的办法。
@@ -71,3 +73,4 @@
 本指南为独立创作，与所引用机构及《高性价比人生指南》项目没有隶属或背书关系。项目起意受到 [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 将生活经验整理成可查阅指南的形式启发；本书围绕不同读者和生活场景重新组织内容。
 
 本仓库用于公开阅读和下载，暂未另行授予商业使用、再分发或修改后发布许可。第三方来源与材料的权利仍归各自权利人。详见[使用与权利说明](RIGHTS.md)。
+
